@@ -18,5 +18,3 @@ This repository is designed only to provide the basics to do the height transfor
 
 Use `main.py` to test the function out. Edit the `lat`, `lon`, `height` variabels to achieve the desired values.
 
-## Troubleshooting
-[No module named 'pandas._libs.tslib'](https://stackoverflow.com/questions/54093020/no-module-named-pandas-libs-tslib)
